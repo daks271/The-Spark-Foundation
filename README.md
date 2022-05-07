@@ -8,8 +8,7 @@ Internship Duration : 1 Month (May-2022)
 Internship Type : Work from Home
 
 Task-1: Prediction using Supervised ML (Level-Beginner)
-
-Please click on the images on the right side to view my solution.
+.
 
 1.Predict the prescentage of an student based on the no. of study hours.
 
