@@ -1,4 +1,4 @@
-# The Spark Foundation Tasks
+# The Sparks Foundation Tasks
 # Data Science And Business Analytics Internship in The Sparks Foundation!
 ![image](https://user-images.githubusercontent.com/78083811/167265215-399496a2-9ec5-403e-b08e-312725164e19.png)
 
