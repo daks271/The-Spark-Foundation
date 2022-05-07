@@ -4,7 +4,9 @@
 
                                                                   
 Internship Category : Data Science and Business Analytics
+
 Internship Duration : 1 Month (May-2022)
+
 Internship Type : Work from Home
 
 Task-1: Prediction using Supervised ML (Level-Beginner)
