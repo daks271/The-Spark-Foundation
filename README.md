@@ -10,7 +10,7 @@ Internship Duration : 1 Month (May-2022)
 Internship Type : Work from Home
 
 
-Task-1: Prediction using Supervised ML (Level-Beginner)
+# Task-1: Prediction using Supervised ML (Level-Beginner)
 .
 
 1.Predict the prescentage of an student based on the no. of study hours.
@@ -25,7 +25,7 @@ Task-1: Prediction using Supervised ML (Level-Beginner)
 
 
 
-Task-2: Prediction using Unsupervised ML(Level-Beginner)
+# Task-2: Prediction using Unsupervised ML(Level-Beginner)
 
 
 
@@ -40,7 +40,7 @@ Data can be found at : https://bit.ly/3kXTdox
 
 
 
-Task-3: To Explore Business Analytics - Retail (Level- Intermediate)
+# Task-3: To Explore Business Analytics - Retail (Level- Intermediate)
 
 
 
@@ -58,7 +58,7 @@ Dataset: https://bit.ly/3i4rbWl
 
 
 
-Task-4 : Exploratory Data Analysis - Terrorism (Level - Advanced)
+# Task-4 : Exploratory Data Analysis - Terrorism (Level - Advanced)
 
 
 
@@ -75,7 +75,7 @@ Dataset: https://bit.ly/2TK5Xn5
 
 
 
-Task-5: Exploratory Data Analysis - Sports (Level - Advanced)
+# Task-5: Exploratory Data Analysis - Sports (Level - Advanced)
 
 
 
@@ -88,7 +88,7 @@ Dataset:  https://bit.ly/34SRn3b
 
 
 
-Task-6 : Prediction using Decision Tree Algorithm (Level - Intermediate)
+# Task-6 : Prediction using Decision Tree Algorithm (Level - Intermediate)
 
 
 
