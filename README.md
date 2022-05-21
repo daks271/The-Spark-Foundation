@@ -12,7 +12,6 @@ Internship Type : Work from Home
 
 # Task-1: Prediction using Supervised ML (Level-Beginner)
 .
-
 1.Predict the prescentage of an student based on the no. of study hours.
 
 2.This is a simple linear regression task as it involves just 2 variables.
