@@ -9,6 +9,7 @@ Internship Duration : 1 Month (May-2022)
 
 Internship Type : Work from Home
 
+
 Task-1: Prediction using Supervised ML (Level-Beginner)
 .
 
@@ -19,6 +20,8 @@ Task-1: Prediction using Supervised ML (Level-Beginner)
 3.Data can be found on http://bit.ly/w-data
 
 4.What will be predicted score if a students studies for 9.25 hr/day ?
+
+
 
 
 
@@ -33,6 +36,8 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 Use Python for perform this task.
 
 Data can be found at : https://bit.ly/3kXTdox
+
+
 
 
 Task-3: To Explore Business Analytics - Retail (Level- Intermediate)
@@ -51,6 +56,8 @@ Dataset: https://bit.ly/3i4rbWl
 
 
 
+
+
 Task-4 : Exploratory Data Analysis - Terrorism (Level - Advanced)
 
 
@@ -66,6 +73,8 @@ What all security issues and insights you can derive by EDA?
 Dataset: https://bit.ly/2TK5Xn5
 
 
+
+
 Task-5: Exploratory Data Analysis - Sports (Level - Advanced)
 
 
@@ -75,6 +84,8 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premium League’.
 Try to find out the most successful teams, players and factors contributing win or loss of a team. Also, Suggest teams or players a company should endorse for its products.
 
 Dataset:  https://bit.ly/34SRn3b
+
+
 
 
 Task-6 : Prediction using Decision Tree Algorithm (Level - Intermediate)
